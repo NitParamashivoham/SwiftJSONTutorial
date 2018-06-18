@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     
-    let URL_HEROES = "https://worried-planet.glitch.me/"
+    let URL_HEROES = "https://raw.githubusercontent.com/tesetinenenen/SwiftJSONTutorial/master/daily"
     
     
     //A string array to save all the names
